@@ -25,13 +25,4 @@ This project implements a basic recommendation system using collaborative filter
     python main.py
     ```
 
-## Dataset
-The dataset contains user-item interactions with ratings.
-
-| user_id | item_id | rating |
-|---------|---------|--------|
-| 1       | 10      | 4.5    |
-| 1       | 20      | 5.0    |
-| 2       | 10      | 3.0    |
-| 3       | 30      | 2.0    |
 
