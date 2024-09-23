@@ -1,5 +1,4 @@
-# Recommendation-System
- Develop a system that recommends products, movies, or articles based on user preferences
+
 # Recommendation System
 
 This project implements a basic recommendation system using collaborative filtering techniques. It recommends products, movies, or articles based on user preferences.
